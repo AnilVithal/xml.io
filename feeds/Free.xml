@@ -1,4 +1,6 @@
-<tv date="20250608082203 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403470/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403470&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4"><channel id="403470">
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082203 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403470/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403470&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="403470">
     <display-name lang="US">MSNBC USA</display-name>
     <icon src="" />
   </channel>
@@ -222,7 +224,11 @@
     <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <date>2025-06-09</date>
   </programme>
-<channel id="405144">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082203 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405144/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405144&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="405144">
     <display-name lang="Canada">ATN - Food Food</display-name>
     <icon src="" />
   </channel>
@@ -841,7 +847,11 @@
     <desc>Master Chef Sanjeev Kapoor teaches the viewers to rustle up delicious bites in a smart way.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="9237">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082204 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/9237/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=9237&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="9237">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Foodxp</display-name>
     <icon src="" />
   </channel>
@@ -990,7 +1000,11 @@
     <desc>The show where we break the latest songs from bollywood tune in and watch it before anyone else does.</desc>
     <date>2025-06-09</date>
   </programme>
-<channel id="404722">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082205 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404722/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404722&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404722">
     <display-name lang="Canada">BBC Canada East</display-name>
     <icon src="" />
   </channel>
@@ -1054,7 +1068,11 @@
     <desc>Sign off.</desc>
     <date>2025-06-09</date>
   </programme>
-<channel id="411574">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082205 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/411574/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=411574&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="411574">
     <display-name lang="India">ZEE CLASSIC</display-name>
     <icon src="" />
   </channel>
@@ -1068,7 +1086,11 @@
     <desc>Raju is guilt-ridden when his involvement with gangsters get his brother, Amit, killed. When he meets Shankar, Amit's lookalike, he decides to make amends, not realising who Shankar really is.</desc>
     <date>2025-06-08</date>
   </programme>
-<channel id="404841">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082206 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404841/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404841&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404841">
     <display-name lang="Canada">Zee Cinema</display-name>
     <icon src="" />
   </channel>
@@ -1222,7 +1244,11 @@
     <desc />
     <date>2025-06-10</date>
   </programme>
-<channel id="404858">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082207 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404858/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404858&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404858">
     <display-name lang="Canada">ATN - B4U Movies (Hindi)</display-name>
     <icon src="" />
   </channel>
@@ -1331,7 +1357,11 @@
     <desc>Movie to be announced.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="404691">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082207 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404691/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404691&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404691">
     <display-name lang="Canada">ATN - B4U Music</display-name>
     <icon src="" />
   </channel>
@@ -1665,7 +1695,11 @@
     <desc />
     <date>2025-06-10</date>
   </programme>
-<channel id="12035">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082208 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/12035/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=12035&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="12035">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Utsav Plus HD</display-name>
     <icon src="" />
   </channel>
@@ -2144,7 +2178,11 @@
     <desc>S15: Former model Amrita Raichand provides and shares mouth-watering and healthy recipes of various snacks and desserts for children.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="404677">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082209 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404677/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404677&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404677">
     <display-name lang="Canada">CBC News Network</display-name>
     <icon src="" />
   </channel>
@@ -2323,7 +2361,11 @@
     <desc>The latest breaking and developing news from across Canada, live from Vancouver.</desc>
     <date>2025-06-09</date>
   </programme>
-<channel id="404674">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082209 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404674/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404674&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404674">
     <display-name lang="Canada">CBC (CBLT) Toronto, ON</display-name>
     <icon src="" />
   </channel>
@@ -2782,7 +2824,11 @@
     <desc>The 2025 Stanley Cup Final shifts south for Game 3 between the Oilers and Panthers. Florida eliminated Carolina in the conference final for the second time in three years, while Edmonton handed Dallas its third straight defeat at that stage.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="405061">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082210 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405061/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405061&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="405061">
     <display-name lang="Canada">CITY Toronto, ON</display-name>
     <icon src="" />
   </channel>
@@ -3076,7 +3122,11 @@
     <desc>When a murder investigation devolves into a kidnapping, Rex's nose leads him and Charlie to Bell Island, and right into the middle of a double murder plot.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="404730">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082211 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404730/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404730&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404730">
     <display-name lang="Canada">CTV News Channel</display-name>
     <icon src="" />
   </channel>
@@ -3485,7 +3535,11 @@
     <desc>Featuring host Merella Fernandez.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="405021">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082212 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405021/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405021&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="405021">
     <display-name lang="Canada">BBC News - North America</display-name>
     <icon src="" />
   </channel>
@@ -4009,7 +4063,11 @@
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="404760">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082212 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404760/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404760&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404760">
     <display-name lang="Canada">DW English</display-name>
     <icon src="" />
   </channel>
@@ -4668,7 +4726,11 @@
     <desc>Detailed explanations, competent analysis, coverage of world current affairs: politics, business, sport and culture. Fascinating insights beyond the headlines. Connecting the dots for viewers around the world.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="405011">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082213 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405011/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405011&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="405011">
     <display-name lang="Canada">EuroNews</display-name>
     <icon src="" />
   </channel>
@@ -5782,7 +5844,11 @@
     <desc>Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
     <date>2025-06-10</date>
   </programme>
-<channel id="422356">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082214 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/422356/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=422356&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="422356">
     <display-name lang="South Africa">NHK</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/04/06/20250406040613606779_38.png" />
   </channel>
@@ -6486,7 +6552,11 @@
     <desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships that they face in Japanese society.</desc>
     <date>2025-06-09</date>
   </programme>
-<channel id="404834">
+</tv>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250608082215 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404834/20250608.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404834&amp;date=20250608&amp;timezone=Q2FuYWRhL0Vhc3Rlcm4">
+  <channel id="404834">
     <display-name lang="Canada">MSNBC Canada</display-name>
     <icon src="" />
   </channel>
@@ -6711,3 +6781,4 @@
     <date>2025-06-09</date>
   </programme>
 </tv>
+
